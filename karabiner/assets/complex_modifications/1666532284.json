@@ -1,0 +1,1 @@
+{"title":"Convert right shift to control","rules":[{"description":"","manipulators":[{"type":"basic","from":{"key_code":"right_shift"},"to":[{"repeat":false,"key_code":"left_control"}]}]}]}
